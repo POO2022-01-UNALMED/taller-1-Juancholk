@@ -1,3 +1,0 @@
-Nombre:Juan José García Vásquez
-Edad:20 años
-Aspiraciones:Aprender mas de programación y profundizar en esta rama de la POO. Para el desarrollo de apps.
