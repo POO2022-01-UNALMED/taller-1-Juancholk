@@ -1,3 +1,5 @@
 Juan José García Vásquez
 Edad:20 años
 Mis aspiraciones son aprender mas sobre programación y desarrollar apps móviles con los conocimientos de Java.
+Porque la carpeta ya no está vacía.
+No se recomienda hacer cambios al mismo tiempo porque genera conflictos.
