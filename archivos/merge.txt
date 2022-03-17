@@ -1,3 +1,3 @@
 Juan José García Vásquez
-Edad: 20 años
-Mis aspiraciones son mejorar en programación para crear apps móviles.
+Edad:20 años
+Mis aspiraciones son aprender mas sobre programación y desarrollar apps móviles con los conocimientos de Java.
